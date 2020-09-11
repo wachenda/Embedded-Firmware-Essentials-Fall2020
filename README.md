@@ -7,7 +7,7 @@
 
 - Assignment 1, Problem 3 Demo Video (*click on image to start video*)
 <!---
-[![Watch the Assignment 1 Demo Video](https://i.ytimg.com/vi/i1oz08r7g78/2.jpg?time=1535991368371)](https://youtu.be/i1oz08r7g78)
+[![Watch the Assignment 1 Demo Video](https://i9.ytimg.com/vi/ND-I0l60MkY/mqdefault.jpg?sqp=CKST8PoF&rs=AOn4CLCOSDFx6WPQnekJlGHNcbGtDotmAQ)](https://youtu.be/ND-I0l60MkY)
 
 ## Week 2
 
