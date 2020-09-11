@@ -1,7 +1,5 @@
-# Embedded-Firmware-Essentials-Fall2020
-
 # Embedded Firmware Essentials Lecture Code Examples
-## UCSC Extension, Spring Quarter 2020
+## UCSC Extension, Fall Quarter 2020
 
 ## Week 1
 
