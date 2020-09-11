@@ -5,12 +5,12 @@
 
 ## Week 1
 
-- Lect1_HelloWorld
+- HelloWorld
 
 - Assignment 1, Problem 3 Demo Video (*click on image to start video*)
-
-[![Watch the Assignment 1 Demo Video](https://i.ytimg.com/vi/i1oz08r7g78/2.jpg?time=1535991368371)](https://youtu.be/i1oz08r7g78)
 <!---
+[![Watch the Assignment 1 Demo Video](https://i.ytimg.com/vi/i1oz08r7g78/2.jpg?time=1535991368371)](https://youtu.be/i1oz08r7g78)
+
 ## Week 2
 
 - Lect2_DigitalOut
