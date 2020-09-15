@@ -8,21 +8,19 @@
 - Assignment 1, Problem 3 Demo Video (*click on image to start video*)
 
 [![Watch the Assignment 1 Demo Video](https://i9.ytimg.com/vi/ND-I0l60MkY/mqdefault.jpg?sqp=CKST8PoF&rs=AOn4CLCOSDFx6WPQnekJlGHNcbGtDotmAQ)](https://youtu.be/ND-I0l60MkY)
-<!---
+
 ## Week 2
 
-- Lect2_DigitalOut
+- Lect2_Digital_Out
 
-- Lect2_DigitalIn
+- Lect2_Digital_In
 
-- Lect2_BusOut
-
-- Lect2_PortOut
+- Lect2_HAL_GPIO_Transmit
 
 - Assignment 2, Problem 4 Demo Video
 
 [![Watch the Assignment 2 Demo Video](https://i.ytimg.com/vi/evdr8Pq520Q/1.jpg?time=1536530948235)](https://youtu.be/evdr8Pq520Q)
-
+<!---
 ## Week 3
 
 - Lect3_PWMnADC
