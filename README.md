@@ -20,10 +20,16 @@
 - Assignment 2, Problem 4 Demo Video
 
 [![Watch the Assignment 2 Demo Video](https://i.ytimg.com/vi/evdr8Pq520Q/1.jpg?time=1536530948235)](https://youtu.be/evdr8Pq520Q)
-<!---
+
 ## Week 3
 
-- Lect3_PWMnADC
+- Lect3_DAC
+
+- Lect3_PWM
+
+- Lect3_ADC
+
+<!---
 
 ## Week 4
 
