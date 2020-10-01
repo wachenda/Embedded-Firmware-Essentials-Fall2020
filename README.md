@@ -36,6 +36,8 @@
 - Lect4_Polled
 
 - Lect4_Timer_Interrupt
+
+- Lect4_RotaryEncoder_Polling
 <!---
 
 - Lect4_2LEDTimer
