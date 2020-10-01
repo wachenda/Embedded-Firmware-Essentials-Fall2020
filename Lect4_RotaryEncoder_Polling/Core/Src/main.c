@@ -61,6 +61,17 @@ UART_HandleTypeDef huart2;
 /* USER CODE BEGIN PV */
 int32_t counter;
 
+/*********************************************************************
+ * State machine look-up table for decoding rotary encoder gray code
+ * Based on code written by Ben Buxton:
+ *
+ * Copyright 2011 Ben Buxton.
+ * Licensed under the GNU GPL Version 3.
+ * Contact: bb@cactii.net
+ * Link:  https://github.com/buxtronix/arduino/tree/master/libraries/Rotary
+ *
+ *********************************************************************/
+
 const unsigned char ttable[7][4] = {
   // R_START
   {R_START,    R_CW_BEGIN,  R_CCW_BEGIN, R_START},
