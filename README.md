@@ -29,11 +29,14 @@
 
 - Lect3_ADC
 
-<!---
-
 ## Week 4
 
-- Lect4_2LEDwait
+- Lect4_Blocking
+
+- Lect4_Polled
+
+- Lect4_Timer_Interrupt
+<!---
 
 - Lect4_2LEDTimer
 
