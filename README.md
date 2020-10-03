@@ -39,6 +39,8 @@
 
 - Lect4_TIM_Clock
 
+- Lect4_HW_Interrupt
+
 - Lect4_RotaryEncoder_Polling
 <!---
 
