@@ -41,6 +41,8 @@
 
 - Lect4_HW_Interrupt
 
+- Lect4_Motor_RPM_HW_Interrupt
+
 - Lect4_RotaryEncoder_Polling
 <!---
 
