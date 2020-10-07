@@ -44,22 +44,15 @@
 - Lect4_Motor_RPM_HW_Interrupt
 
 - Lect4_RotaryEncoder_Polling
-<!---
-
-- Lect4_2LEDTimer
-
-- Lect4_2LEDTicker
-
-- Lect4_RotaryEncoder_Polling
 
 ## Week 5
 
-- Lect5_ADXL345
+- Lect5_ADXL343
 
 - Lect5_TMP102
 
-- Lect5_2x16LCD
-
+- Lect5_LCD
+<!---
 ## Week 6
 
 - Lect6_Flash_Demo
