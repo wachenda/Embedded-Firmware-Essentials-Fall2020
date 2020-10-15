@@ -52,15 +52,14 @@
 - Lect5_TMP102
 
 - Lect5_LCD
-<!---
+
 ## Week 6
 
-- Lect6_Flash_Demo
+- Lect6_Flash_Demo_Internal
 
-- Lect6_SerialInterrupt
+- Lect6_UART_RX_with_RingBuffer
 
-- Lect6_ADXL345_Modular
-
+<!---
 ## Week 7
 
 - Lect7_GPIO_TIMER
