@@ -57,6 +57,8 @@
 
 - Lect6_Flash_Demo_Internal
 
+- Lect6_W25Qxx
+
 - Lect6_UART_RX_with_RingBuffer
 
 <!---
