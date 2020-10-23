@@ -61,15 +61,17 @@
 
 - Lect6_UART_RX_with_RingBuffer
 
-<!---
 ## Week 7
 
-- Lect7_GPIO_TIMER
+- Lect7_ADC_ConversionRate_DMA
 
-- Lect7_ADC_PWM
+- Lect7_PWM_DMA_SineWave
 
-- Lect7_Watchdog_Timer
+- Lect7_Test_New_NeoPixel
 
+[![Watch the Lecture 7 Neopixel Demo Video](https://i9.ytimg.com/vi/mjdzhbHJOsY/mqdefault.jpg?time=1603411200000&sqp=CIC6yPwF&rs=AOn4CLCidjMN5z3Wtgq_WzBJMeYGklkmXg)](https://youtu.be/mjdzhbHJOsY)
+
+<!---
 ## Week 8
 
 - PPM_RX2
