@@ -71,6 +71,7 @@
 
 [![Watch the Lecture 7 Neopixel Demo Video](https://i9.ytimg.com/vi/mjdzhbHJOsY/mqdefault.jpg?time=1603411200000&sqp=CIC6yPwF&rs=AOn4CLCidjMN5z3Wtgq_WzBJMeYGklkmXg)](https://youtu.be/mjdzhbHJOsY)
 
+- Lect7_Independent_Watchdog
 <!---
 ## Week 8
 
