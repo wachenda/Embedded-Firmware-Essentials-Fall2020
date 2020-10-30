@@ -75,6 +75,8 @@
 
 ## Week 8
 
+- Lect8_CPP_Demo
+
 - Lect8_PPM_IC_IT
 
 <!---
